@@ -1,0 +1,60 @@
+body{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    line-height: 1.6em;
+  }
+  a{
+    color: #1c6ea0;
+  }
+  a:hover{
+    color:#42a9be;
+    transition: all 0.3s linear;
+  }
+  h1.title{
+    font-size: 12px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #1c6ea0;
+    font-weight: bold;
+    margin-top:7px;
+    line-height: 1.6em;
+  }
+  li a{
+    font-weight: bold;
+    font-size: 11px;
+  }
+  li{
+    color: black;
+  }
+  .nav>li>a, .nav>li>a{
+    padding: 3px 3px;
+  }
+  .texto{
+    text-align:justify;
+    font-size: 11px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+  }
+  p{
+    margin: 1em 0;
+    color:black;
+  }
+  .nav>li>a:focus, .nav>li>a:hover{
+    background-color: white;
+  }
+  .navbar-toggle{
+    background-color: #eee;
+  }
+  .navbar-toggle .icon-bar{
+    background-color: black;
+    border-radius: 2px;
+  }
+  .divider{
+    border: solid 0.7px #e6e4de;
+  }
+  .fab{
+    font-size: 22px;
+    margin-right: 10px;
+    
+  }
+  .up{
+    margin-top: 30px;
+  }
